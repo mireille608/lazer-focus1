@@ -1,0 +1,7 @@
+create a job in jenkins
+in github go to settings > webhook > add webhook
+playloaad add the jenkins url + /github-webhook/
+content type choose (application/jazon)
+make sure you mark all the option
+then the green button
+
